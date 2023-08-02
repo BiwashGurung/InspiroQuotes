@@ -2,7 +2,7 @@
 # Build With HTML , CSS & JavaScript
 
 # About This Software and It's Features :
-<img src=" ">
+<img src="https://github.com/BiwashGurung/InspiroQuotes/blob/master/display.png">
 
 
 "Introducing InspiroQuotes, a captivating quotes generator software designed with the perfect blend of HTML, CSS, and JavaScript.
