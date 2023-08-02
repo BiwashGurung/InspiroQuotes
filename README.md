@@ -10,5 +10,7 @@ This innovative application boasts an extensive collection of inspirational quot
 
 To use the Tool, please click the link provided below :
 
+https://biwashgurung.github.io/InspiroQuotes/
+
 
 
